@@ -13,7 +13,7 @@ int main(void)
 		printf("%d/n is zero",n);
 	}else if (n>0){
 		printf("%d/n is positive",n);
-	}elseif (n<0){
+	}else if (n<0){
                 printf("%d/n is negative",n);
 	}else {
 		printf("Try again buddy, You got this!");
