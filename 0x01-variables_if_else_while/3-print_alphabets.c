@@ -1,4 +1,10 @@
 #include<stdio.h>
+/**
+ * main - print alphabet in lower and uppercase
+ *
+ *
+ * Return: (0) Success
+ */
 int main(void)
 {
 	char c;
@@ -7,7 +13,7 @@ int main(void)
 		putchar(c);
 	for (c = 'A'; c <= 'Z'; c++)
 		putchar(c);
-	putchar("\n");
+putchar("\n");
 return (0);
 }
 
