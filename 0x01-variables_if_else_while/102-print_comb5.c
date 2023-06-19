@@ -17,14 +17,14 @@ int main(void)
 		{
 			for (c = b + 1; c <= 9; c++)
 			{
-				putchar ('0' + a)
-				putchar ('0' + b)
-				putchar ('0' + c)
-				putchar (',')
-				putchar (' ')
+				putchar ('0' + a);
+				putchar ('0' + b);
+				putchar ('0' + c);
+				putchar (',');
+				putchar (' ');
 			}
 		}
 	}
-	putchar ('\n')
-return (0)
+	putchar ('\n');
+return (0);
 }
