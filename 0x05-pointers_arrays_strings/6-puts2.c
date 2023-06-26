@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 /**
  *puts2 - print pair values.
  *@str: value to be evaluate.
